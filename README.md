@@ -4,6 +4,12 @@ Java application for disk scheduling algorithms ( FCFS, SSTF, LOOK, CLOOK, SCAN,
 # Motivation
 This is an application for disk scheduling made for a college seminar project.
 
+# Description
+Default values of searchTime, latency and transferTime are:
+	• searchTime = 5;
+	• latency = 5;
+	• transferTime = 10;
+
 ## Output example (for SSTF):
 
 -----SSTF Disk Scheduling-----
