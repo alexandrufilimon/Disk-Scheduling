@@ -4,7 +4,7 @@ Java application for disk scheduling algorithms ( FCFS, SSTF, LOOK, CLOOK, SCAN,
 # Motivation
 This is an application for disk scheduling made for a college seminar project.
 
-# Output:
+## Output example (for SSTF):
 
 -----SSTF Disk Scheduling-----
 
